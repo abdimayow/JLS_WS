@@ -1,0 +1,4 @@
+# Update GPG key for PostgreSQL repository
+RUN apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 7FCC7D46ACCC4CF8 || true
+libgdal-dev
+libproj-dev
