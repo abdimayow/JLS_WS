@@ -1,0 +1,345 @@
+INDEX,REGION,DISTRICT,SOURCE NAME,SOURCE TYPE,SETTLEMENT,Latitude,Longitude
+1,Lower Juba,Afmadow,Fanole,Borehole,Fanole,0.513611,42.033056
+2,Lower Juba,Afmadow,Siigaale,Borehole,Qooqaani,0.2766111,41.7171374
+3,Lower Juba,Afmadow,Towfiq,Borehole,Afmadow,0.5033549,42.065899
+4,Lower Juba,Afmadow,Afmadow Borehole ,Borehole,Afmadow,0.5213612,42.0833257
+5,Lower Juba,Afmadow,Dodowajo,Borehole,Afmadow,0.4554406,42.0842377
+6,Lower Juba,Afmadow,Mido,Borehole,Mido,0.3092337,42.1502431
+7,Lower Juba,Afmadow,Waystation,Borehole,Afmadow,0.5178889,42.0700975
+8,Lower Juba,Afmadow,Towfiq 1,Shallow Well,Afmadow,0.5077,42.0691
+9,Lower Juba,Afmadow,Cilanle,Shallow Well,Afmadow,0.5211,42.0749
+10,Lower Juba,Afmadow,Tuware,Shallow Well,Afmadow,0.5119,42.0768
+11,Lower Juba,Afmadow,Haji Ali Shallow well,Shallow Well,Afmadow,0.5202,42.0749
+12,Lower Juba,Afmadow,Babeyle shallow well ,Shallow Well,Afmadow,0.5199,42.0768
+13,Lower Juba,Afmadow,Kabxanle shallow well ,Shallow Well,Afmadow,0.5202,42.076
+14,Lower Juba,Afmadow,Anfac shallow well ,Shallow Well,Afmadow,0.5203,42.0751
+15,Lower Juba,Afmadow,Larg Shallow well,Shallow Well,Afmadow,0.5199,42.0756
+16,Lower Juba,Afmadow,Abdinoor Shallow well,Shallow Well,Afmadow,0.5203,42.0753
+17,Lower Juba,Afmadow,Ceyn shallow well,Shallow Well,Afmadow,0.5213,42.0761
+18,Lower Juba,Afmadow,Heylow Shallow well ,Shallow Well,Afmadow,0.5211,42.076
+19,Lower Juba,Badhaadhe,Hoosingo,Borehole,Hoosingo,-0.1712244,41.2702726
+20,Lower Juba,Badhaadhe,Waraq,Borehole,Waraq,-0.4151958,41.0074475
+21,Lower Juba,Badhaadhe,Kolbiyow,Shallow Well,Badhaadhe,-1.139276,41.227346
+22,Lower Juba,Badhaadhe,Kamboni water source,Shallow Well,Badhaadhe,-1.032342,41.974786
+23,Lower Juba,Badhaadhe,Kudha ,Shallow Well,Badhaadhe,-1.028627,41.977448
+24,Lower Juba,Badhaadhe,Burgabo,Shallow Well,Badhaadhe,-1.216756,41.837379
+25,Lower Juba,Badhaadhe,Kamboni water source,Barkad,Raskamboni,-1.032342,41.974786
+26,Lower Juba,Badhaadhe,Kudha ,Barkad,Kudhaa,-1.028627,41.977448
+27,Lower Juba,Badhaadhe,Burgabo,Barkad,Burgabo ,-1.216756,41.837379
+28,Lower Juba,Dhobley,Ceel Solar,Borehole,Dhobley,0.4223636,41.0244422
+29,Lower Juba,Dhobley,Ceeldhiig,Borehole,Dhobley,0.3958271,41.0090479
+30,Lower Juba,Dhobley,Mowlid Laqay,Borehole,Dhobley,0.404774,41.0247585
+31,Lower Juba,Dhobley,Taabto,Borehole,Taabto,0.3057392,41.4392889
+32,Lower Juba,Dhobley,Durdur,Borehole,Dhobley,0.4178119,40.9976555
+33,Lower Juba,Dhobley,Degelema,Borehole,Degelema,0.3006588,40.9985952
+34,Lower Juba,Dhobley,Diif,Borehole,Diif,0.9626293,41.0613864
+35,Lower Juba,Dhobley,Ceelka IDO,Borehole,Dhoobley,0.4268059,41.015793
+36,Lower Juba,Dhobley,Ceelka koowad,Borehole,Dhoobleey,0.4117634,41.0009216
+37,Lower Juba,Dhobley,Danwadaag,Borehole,Dhoobley,0.3961249,41.0030156
+38,Lower Juba,Dhobley,Guxweyne 1,Borehole,Dhobley,0.4082699,41.0136165
+39,Lower Juba,Dhobley,Guuxeyne 2,Borehole,Dhobley,0.4082637,41.0136122
+40,Lower Juba,Dhobley,Dhoobale,Borehole,Dhobley,0.4096949,41.0112162
+41,Lower Juba,Dhobley,Ceelqararow,Borehole,Dhoobley,0.4251115,41.0083244
+42,Lower Juba,Jamaame,Bula Gaduud,Shallow Well,Jamaame,0.071,42.5856
+43,Lower Juba,Kismayo,Janaa Cabdalla,Borehole,Janaa Cabdalla,0.0285256,42.2905428
+44,Lower Juba,Kismayo,Marino1  IDPs,Shallow Well,Kismayo,0.366792,42.54996
+45,Lower Juba,Kismayo,kibora,Shallow Well,Kismayo,0.367866,42.551492
+46,Lower Juba,Kismayo,marina 2,Shallow Well,Kismayo,0.3598,42.552701
+47,Lower Juba,Kismayo,Waamo 3,Shallow Well,Kismayo,0.3447983,42.5282484
+48,Lower Juba,Kismayo,Nageye ,Shallow Well,Kismayo,0.3650898,42.5530837
+49,Lower Juba,Kismayo,Soya ,Shallow Well,Kismayo,-0.3451071,42.5279701
+50,Lower Juba,Kismayo,Qaamqaam1,Shallow Well,Kismayo,-0.216733,42.616472
+51,Lower Juba,Kismayo,Qaamqaam2,Shallow Well,Kismayo,-0.216773,42.616611
+52,Lower Juba,Kismayo,Qaamqaam3,Shallow Well,Kismayo,-0.21664,42.616491
+53,Lower Juba,Kismayo,Qaamqaam4,Shallow Well,Kismayo,-0.216593,42.616667
+54,Lower Juba,Kismayo,Qaamqaam5,Shallow Well,Kismayo,-0.21646,42.616587
+55,Lower Juba,Kismayo,Qaamqaam6,Shallow Well,Kismayo,-0.216329,42.616597
+56,Lower Juba,Kismayo,Qaamqaam7,Shallow Well,Kismayo,-0.216207,42.616599
+57,Lower Juba,Kismayo,Qaamqaam8,Shallow Well,Kismayo,-0.216207,42.616776
+58,Lower Juba,Kismayo,Qaamqaam9,Shallow Well,Kismayo,-0.213471,42.616792
+59,Lower Juba,Kismayo,Buulo Ablic,Shallow Well,Kismayo,0.3409,42.5671
+60,Lower Juba,Kismayo,Buulo Ablic,Shallow Well,Kismayo,0.341,42.567
+61,Lower Juba,Kismayo,Buulo Ablic,Shallow Well,Kismayo,0.3413,42.5662
+62,Lower Juba,Kismayo,Buulo Ablic,Shallow Well,Kismayo,0.3411,42.567
+63,Lower Juba,Kismayo,Bilan,Shallow Well,Kismayo,0.342,42.5665
+64,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.3425,42.5685
+65,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.3425,42.5684
+66,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.3425,42.5683
+67,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3431,42.5678
+68,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3432,42.5673
+69,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3436,42.5681
+70,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3469,42.5663
+71,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3402,42.5663
+72,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3404,42.5664
+73,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3401,42.566
+74,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3403,42.5662
+75,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3499,42.5622
+76,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3396,42.5658
+77,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3397,42.5657
+78,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3396,42.5669
+79,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3398,42.5657
+80,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3396,42.5661
+81,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3393,42.5656
+82,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3394,42.5662
+83,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3391,42.5661
+84,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3392,42.5662
+85,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3388,42.5659
+86,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3406,42.5665
+87,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3388,42.5663
+88,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3387,42.5663
+89,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3387,42.5659
+90,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.339,42.5658
+91,Lower Juba,Kismayo,Buulo Ablic,Shallow Well,Kismayo,0.3424,42.5641
+92,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3429,42.5643
+93,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3426,42.5645
+94,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.343,42.5624
+95,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3429,42.5647
+96,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3428,42.5646
+97,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3431,42.5633
+98,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3454,42.5629
+99,Lower Juba,Kismayo,Buulo Malaay,Shallow Well,Kismayo,0.3427,42.5631
+100,Lower Juba,Kismayo,Maleyley,Shallow Well,Kismayo,0.34049,42.5666
+101,Lower Juba,Kismayo,Maleyley,Shallow Well,Kismayo,0.34039,42.566867
+102,Lower Juba,Kismayo,Maleyley,Shallow Well,Kismayo,0.340627,42.566867
+103,Lower Juba,Kismayo,Maleyley,Shallow Well,Kismayo,0.3405,42.566514
+104,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340462,42.566447
+105,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340338,42.566472
+106,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340718,42.566447
+107,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340827,42.56089
+108,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.34016,42.566482
+109,Lower Juba,Kismayo,Ceelasha Biyaha,Shallow Well,Kismayo,0.340516,42.565092
+110,Lower Juba,Kismayo,Ceelasha Biyaha,Shallow Well,Kismayo,0.360659,42.56567
+111,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.3404636,42.505691
+112,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340304,42.565736
+113,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340289,42.56536
+114,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340514,42.5654
+115,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340512,42.56517
+116,Lower Juba,Kismayo,Bariisay,Shallow Well,Kismayo,0.340513,42.565052
+117,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.341019,42.564481
+118,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.341519,42.564067
+119,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.34151942,42.64069
+120,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.341529,42.564053
+121,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.341419,42.564367
+122,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.341665,42.564069
+123,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.342129,42.562961
+124,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.34821,42.5563
+125,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.3419,42.5648
+126,Lower Juba,Kismayo,Sooya,Shallow Well,Kismayo,0.3419,42.5645
+127,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3416,42.5641
+128,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3416,42.5634
+129,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3115,42.5636
+130,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.341562,42.508795
+131,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3421,42.5635
+132,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.342,42.5637
+133,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3422,42.5636
+134,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3419,42.5645
+135,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3417,42.5642
+136,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3423,42.563
+137,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3418,42.5636
+138,Lower Juba,Kismayo,Nageye,Shallow Well,Kismayo,0.3418,42.5633
+139,Lower Juba,Kismayo,Waamo,Shallow Well,Kismayo,0.3415,42.5635
+140,Lower Juba,Kismayo,Waamo,Shallow Well,Kismayo,0.3422,42.563
+141,Lower Juba,Kismayo,Bula abliko,Shallow Well,Kismayo,0.33998,42.56956
+142,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340556,42.56797
+143,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340356,42.5679
+144,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340098,42.5677
+145,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340186,42.467936
+146,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340158,42.567357
+147,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.339727,42.56775
+148,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.339705,42.5675
+149,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.339859,42.5678
+150,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340602,42.56753
+151,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.34781,42.5674
+152,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340751,42.56939
+153,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.341094,42.56939
+154,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.341694,42.569
+155,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.3415241,42.56951
+156,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.341524,42.569446
+157,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.341238,42.56977
+158,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340716,42.56952
+159,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340716,42.569112
+160,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340707,42.569456
+161,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.340167,42.569746
+162,Lower Juba,Kismayo,Maleley,Shallow Well,Kismayo,0.34055,42.569751
+163,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340135,42.568942
+164,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340317,42.568942
+165,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340315,42.565857
+166,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340452,42.5659
+167,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.34492,42.566878
+168,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340474,42.568853
+169,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341019,42.56554
+170,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341256,42.5690178
+171,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341397,42.569152
+172,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341473,42.569456
+173,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341471,42.569282
+174,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341473,42.569627
+175,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341786,42.568795
+176,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.341561,42.569907
+177,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.340992,42.670035
+178,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.33915,42.570022
+179,Lower Juba,Kismayo,Qoryoley,Shallow Well,Kismayo,0.339153,42.565288
+180,Lower Juba,Kismayo,Marerey,Shallow Well,Kismayo,0.366397,42.552741
+181,Lower Juba,Kismayo,Camp1,Shallow Well,Kismayo,0.366117,42.550269
+182,Lower Juba,Kismayo,Siinay,Shallow Well,Kismayo,0.36645,42.552577
+183,Lower Juba,Kismayo,Haadweyne1,Borehole,Haadweyne,-0.3775414,42.2973486
+184,Lower Juba,Kismayo,Haadweyne2,Borehole,Haadweyne,-0.3836599,42.3064175
+185,Lower Juba,Kismayo,Haadweyne3,Borehole,Haadweyne,-0.3717057,42.2990665
+186,Lower Juba,Kismayo,Haadweyne4,Borehole,Haadweyne,-0.3775414,42.2973486
+187,Lower Juba,Kismayo,Haadweyne5,Borehole,Haadweyne,-0.3775414,42.2973486
+188,Lower Juba,Kismayo,Haadweyne6,Borehole,Haadweyne,-0.3775414,42.2973486
+189,Lower Juba,Kismayo,Haadweyne7,Borehole,Haadweyne,-0.3775414,42.2973486
+190,Lower Juba,Kismayo,Haadweyne8,Borehole,Haadweyne,-0.3775414,42.2973486
+191,Lower Juba,Kismayo,Caafi1,Borehole,Guulwade,-0.34025,42.536458
+192,Lower Juba,Kismayo,Caafi2,Borehole,Guulwade,-0.340242,42.537018
+193,Lower Juba,Kismayo,Caafi3,Borehole,Guulwade,-0.339645,42.536698
+194,Lower Juba,Kismayo,Caafi4,Borehole,Guulwade,-0.339908,42.53647
+195,Lower Juba,Kismayo,Caafi5,Borehole,Guulwade,-0.33936,42.53611
+196,Lower Juba,Kismayo,Caafi6,Borehole,Guulwade,-0.33868,42.53609
+197,Lower Juba,Kismayo,Caafi7,Borehole,Guulwade,-0.338132,42.53596
+198,Lower Juba,Kismayo,Caafi8,Borehole,Guulwade,-0.3384,42.535847
+199,Lower Juba,Kismayo,Caafi9,Borehole,Farjano,-0.32918,42.53365
+200,Lower Juba,Kismayo,Caafi10,Borehole,Farjano,-0.32971,42.533492
+201,Lower Juba,Kismayo,Caafi11,Borehole,Farjano,-0.329282,42.533088
+202,Lower Juba,Kismayo,Caafi12,Borehole,Guulwade,-0.328908,42.532248
+203,Lower Juba,Kismayo,Caafi13,Borehole,Farjano,-0.3299693,42.5328828
+204,Lower Juba,Kismayo,Caafi14,Borehole,Farjano,-0.3409153,42.5380659
+205,Lower Juba,Kismayo,Central,Borehole,Haadweyne,-0.3749412,42.2998591
+206,Lower Juba,Kismayo,Ceel Xagar,Borehole,Haadweyne,-0.3703686,42.3004651
+207,Lower Juba,Kismayo,Ceel Jaamac,Borehole,Haadweyne,-0.3717127,42.2990382
+208,Lower Juba,Kismayo,Beydan,Borehole,Haadweyne,-0.3756305,42.294357
+209,Lower Juba,Kismayo,Alla Yaasir,Borehole,Haadweyne,-0.3776498,42.2973021
+210,Lower Juba,Kismayo,Yamba,Borehole,Haadweyne,-0.3836496,42.3063861
+211,Gedo,Baardheere,Iftin IDPs,Shallow Well,Baardheere,2.351868,42.291921
+212,Gedo,Baardheere,Bulo-asharaf,Shallow Well,Baardheere,2.355745,42.237155
+213,Gedo,Baardheere,Come gedi,Shallow Well,Baardheere,2.352884,42.287381
+214,Gedo,Baardheere,Gurman,Shallow Well,Baardheere,2.333142,42.285056
+215,Gedo,Baardheere,Bulacasan,Shallow Well,Baardheere,2.360364,42.293736
+216,Gedo,Baardheere,Bulo Garas,Shallow Well,Baardheere,2.344857,42.28307
+217,Gedo,Baardheere,Hela baneed,Shallow Well,Baardheere,2.3421146,42.2852429
+218,Gedo,Baardheere,Jaale siyaad primary school,Shallow Well,Baardheere,2.340152,42.283047
+219,Gedo,Baardheere,Kurmaan village,Shallow Well,Baardheere,2.33851,42.2854836
+220,Gedo,Baardheere,Suuqyare,Shallow Well,Baardheere,2.340597,42.28152
+221,Gedo,Baardheere,Mutulow,Shallow Well,Baardheere,2.3652,42.279282
+222,Gedo,Baardheere,Buulo Asharaaf,Shallow Well,Baardheere,2.331272,42.270187
+223,Gedo,Baardheere,Kurmaan danyar,Shallow Well,Baardheere,2.308901,42.264395
+224,Gedo,Baardheere,Comp Libaan,Shallow Well,Baardheere,2.339512,42.282047
+225,Gedo,Baardheere,Comp tawakal,Shallow Well,Baardheere,2.36026,42.280241
+226,Gedo,Baardheere,Bulo baraka,Shallow Well,Baardheere,2.354842,42.28233
+227,Gedo,Baardheere,Horseed IDP,Shallow Well,Baardheere,2.3384,42.278359
+228,Gedo,Baardheere,Habaal Adey,Shallow Well,Baardheere,2.342015,42.285263
+229,Gedo,Badhaadhe,Hassan Abdi karin,Water pan,Kolbiyow,-1.139276,41.227346
+230,Gedo,Beledxaawo,Horsed,Shallow Well,Beledxaawo,3.4728,42.3244
+231,Gedo,Beledxaawo,Dhabad,Shallow Well,Beledxaawo,3.4738,42.324111
+232,Gedo,Beledxaawo,Farjano,Shallow Well,Beledxaawo,3.485,42.33324
+233,Gedo,Beledxaawo,Bewasco,Shallow Well,Beledxaawo,3.982,41.90662
+234,Gedo,Beledxaawo,Ceelka Axmed Qoorgaab,Shallow Well,Beledxaawo,3.9295164,41.877303
+235,Gedo,Beledxaawo,Ceelka omar dahir,Shallow Well,Beledxaawo,3.9303389,41.8758961
+236,Gedo,Beledxaawo,Ceelka ree shekh hassan,Shallow Well,Beledxaawo,3.9303385,41.8758963
+237,Gedo,Beledxaawo,Ceelka ree shekh hassan,Shallow Well,Beledxaawo,3.9304495,41.8758451
+238,Gedo,Beledxaawo,Ceelka Hassan,Shallow Well,Beledxaawo,3.9293675,41.8757513
+239,Gedo,Beledxaawo,Ceelka carabo,Shallow Well,Beledxaawo,3.9327236,41.8807166
+240,Gedo,Beledxaawo,malka-riyey sw1,Shallow Well,Beledxaawo,3.98210917,41.90656861
+241,Gedo,Beledxaawo,malka-riyey sw2,Shallow Well,Beledxaawo,3.98191472,41.90642222
+242,Gedo,Beledxaawo,malka-riyey sw3,Shallow Well,Beledxaawo,3.98111917,41.90595806
+243,Gedo,Beledxaawo,malka-riyey sw4,Shallow Well,Beledxaawo,3.98994028,41.91602667
+244,Gedo,Beledxaawo,Ceelka nuur daahir,Shallow Well,Beledxaawo,3.9304692,41.8758199
+245,Gedo,Beledxaawo,Ceelka tuulada odaa,Shallow Well,Beledxaawo,3.9304647,41.8758272
+246,Gedo,Dollow,Garbolow,Shallow Well,Dollow,4.16606,42.07531
+247,Gedo,Dollow,Kabasa,Shallow Well,Dollow,3.982383,41.90696408
+248,Gedo,Dollow,Dhagahley,Shallow Well,Dollow,3.4728,42.3244
+249,Gedo,Dollow,Garbolow sw 1,Shallow Well,Dollow,4.164631,42.084641
+250,Gedo,Dollow,Garbolow sw2,Shallow Well,Dollow,4.166686,42.074868
+251,Gedo,Dollow,Ladan,Shallow Well,Dollow,4.134197,42.061846
+252,Gedo,Dollow,Qansahly,Shallow Well,Dollow,,
+253,Gedo,Dollow,Kurtu village,Shallow Well,Dollow,,
+254,Gedo,Dollow,Garbolow sw3,Shallow Well,Dollow,4.167,42.075288
+255,Gedo,Elwak,Elbanda,Borehole,Elbanda,2.7960015,41.009621
+256,Gedo,Elwak,OWRUU DIIMTU,Borehole,OWRU DIIMTO,2.7001253,40.9956587
+257,Gedo,Elwak,Ceelwaaq,Borehole,October,2.7864313,41.0165376
+258,Gedo,Elwak,Gubatu farms,Borehole,Gubatu borehole,2.774665,41.014177
+259,Gedo,Elwak,Dhamaso,Borehole,Dhamaso,3.156048,41.308615
+260,Gedo,Elwak,Qamrale,Borehole,Qamrale,3.150859,41.335827
+261,Gedo,Elwak,Baanbaxalimo,Borehole,Baanbaxalimo,2.817577,41.620986
+262,Gedo,Elwak,Dhamaso,Borehole,Dhaabaa,3.032751,41.206027
+263,Gedo,Elwak,Kurtun1,Borehole,Kurtun,1.985479,41.028934
+264,Gedo,Elwak,Meeri,Borehole,Meeri,2.504157,41.120563
+265,Gedo,Elwak,Kurtun2,Borehole,Kurtun,1.987433,41.028651
+266,Gedo,Elwak,Dhibaayow,Borehole,Dhibaayow,2.303378,41.085067
+267,Gedo,Elwak,Dhajiti dhaani,Borehole,Dhajiti dhaani,2.564072,40.994368
+268,Gedo,Elwak,Wargaduudo1,Borehole,Wargaduudo,2.739673,41.732653
+269,Gedo,Elwak,Wargaduudo2,Borehole,Wargaduudo,2.739709,41.732484
+270,Gedo,Garbaharey,Daableey  Borehole,Borehole,Daableey  Borehole,3.233001,42.026422
+271,Gedo,Garbaharey,Tumeey Borehole,Borehole,Tumeey Borehole,3.499775,42.158252
+272,Gedo,Garbaharey,Maykaareebay Borehole,Borehole,Maykaareebay Borehole,3.445758,42.269222
+273,Gedo,Garbaharey,Dhuure,Borehole,Dhuure,3.334818,42.231977
+274,gedo,Garbaharey,Hilomareer,Borehole,Burdhubo,3.2263407,42.503812
+275,gedo,Garbaharey,RAASAMAAL BOREHOLE,Borehole,Shabeel,3.3341471,42.2164937
+276,gedo,Garbaharey,AARAN BOREHOLE,Borehole,Xaashiweer,3.330412,42.2081547
+277,gedo,Garbaharey,BURAA BOREHOLE,Borehole,Buraa,3.1694412,42.1354144
+278,gedo,Garbaharey,BURWAAQO BOREHOLE,Borehole,Tuulo Burwaaqo,3.5014404,42.1604709
+279,Gedo,Garbaharey,Warsan,Water pan,Warsan Village ,3.345081,42.2190491
+280,Gedo,Garbaharey,Warsan ,Water pan,Warsan village ,3.3461727,42.2194488
+281,Gedo,Garbaharey,wabari,Shallow Well,Garbaharey,3.337573,42.210628
+282,Gedo,Garbaharey,Hashi- weer,Shallow Well,Garbaharey,3.336499,42.211519
+283,Gedo,Garbaharey,tafta-taag,Shallow Well,Garbaharey,3.3333462,42.212336
+284,Gedo,Garbaharey,wabari,Shallow Well,Garbaharey,3.332792,42.211802
+285,Gedo,Garbaharey,Haashiweer,Shallow Well,Garbaharey,3.332834,42.211743
+286,Gedo,Garbaharey,Dawmacaan ,Shallow Well,Garbaharey,3.3340329,42.2138141
+287,Gedo,Garbaharey,Dawmacaan,Shallow Well,Garbaharey,3.3333918,42.2124029
+288,Gedo,Garbaharey,Dawmacaan,Shallow Well,Garbaharey,3.3325817,42.21204
+289,Gedo,Garbaharey,Dawmacaan,Shallow Well,Garbaharey,3.332804,42.2118143
+290,Gedo,Garbaharey,Dawmacaan,Shallow Well,Garbaharey,3.3328617,42.211765
+291,Gedo,Garbaharey,Dawmacaan ,Shallow Well,Garbaharey,3.3328433,42.2117217
+292,Gedo,Garbaharey,Shabeel,Shallow Well,Garbaharey,3.3323617,42.2115917
+293,Gedo,Garbaharey,Haashiweer,Shallow Well,Garbaharey,3.3310367,42.2074633
+294,Gedo,Garbaharey,Haashiweer,Shallow Well,Garbaharey,3.3309067,42.207455
+295,Gedo,Garbaharey,Haashiweer ,Shallow Well,Garbaharey,3.33052,42.2081817
+296,Gedo,Garbaharey,Warsan,Shallow Well,Garbaharey,3.345081,42.2190491
+297,Gedo,Garbaharey,Warsan ,Shallow Well,Garbaharey,3.3461727,42.2194488
+298,Gedo,Luuq,Diido Canaane,Borehole,Diido Canaane,3.8118,42.539162
+299,Gedo,Luuq,Yurkud,Borehole,Yurkud,3.79994,42.54483
+300,Gedo,Luuq,Boholgarass,Borehole,Boholgaras,4.205699,42.440039
+301,Gedo,Luuq,Saacid,Borehole,Jazira,3.81169,42.558183
+302,Gedo,Luuq,Laastiig,Borehole,Bulo Musley,3.7880269,42.5522738
+303,Gedo,Luuq,Qooneey,Barkad,Qooneey,4.11025,42.63489
+304,Gedo,Luuq,Boholgaras,Barkad,Boholgaras,3.7652,42.8547
+305,Gedo,Luuq,Cusbo,Water pan,Cusbo,4.1021,42.1322
+306,Gedo,Luuq,Wabari,Shallow Well,Luuq,3.98239467,41.90725852
+307,Gedo,Luuq,Sheik mohamed,Shallow Well,Luuq,3.98238349,41.90696484
+308,Gedo,Luuq,Hilac,Shallow Well,Luuq,3.98239508,41.90725829
+309,Gedo,Luuq,Golweyn shallow well,Shallow Well,Luuq,3.7929421,42.5468234
+310,Gedo,Luuq,Hilaac,Shallow Well,Luuq,3.782728,42.549096
+311,Gedo,Luuq,Buula busley,Shallow Well,Luuq,3.78631,42.55234
+312,Gedo,Luuq,Buula busley,Shallow Well,Luuq,3.786779,42.552409
+313,Gedo,Luuq,Boholyaxaas,Shallow Well,Luuq,3.774728,42.549096
+314,Gedo,Luuq,Jinaawkey,Shallow Well,Luuq,3.4729,42.53993
+315,Gedo,Luuq,shirkada shaqadoon,Shallow Well,Luuq,3.4561,42.465
+316,Gedo,Luuq,Dhuyucley ,Shallow Well,Luuq,3.6768,42.3741
+317,Gedo,Luuq,Buulabanda,Shallow Well,Luuq,3.7873,42.4341
+318,Gedo,Luuq,Buulabanda,Shallow Well,Luuq,3.6714,42.4379
+319,Gedo,Luuq,Ambareefad ,Shallow Well,Luuq,3.6741,42.7993
+320,Gedo,Luuq,Ambareefad2,Shallow Well,Luuq,3.7747,42.783
+321,Gedo,Luuq,Jaziiro,Shallow Well,Luuq,3.7714,42.7791
+322,Gedo,Luuq,Madiina,Shallow Well,Luuq,3.6798,42.587
+323,Gedo,Luuq,Dhuyucley,Shallow Well,Luuq,3.7971,42.723
+324,Gedo,Luuq,Kaahweyne,Shallow Well,Luuq,3.4725,42.3477
+325,Gedo,Luuq,Hanooy,Shallow Well,Luuq,3.758625,42.542232
+326,Gedo,Luuq,Quracley,Shallow Well,Luuq,3.758201,42.540366
+327,Gedo,Luuq,Doiryaan,Shallow Well,Luuq,3.7456,42.5344
+328,Gedo,Luuq,Maganeey,Shallow Well,Luuq,3.78235,42.7556
+329,Gedo,Luuq,C qeyr,Shallow Well,Luuq,3.75423,42.5846
+330,Gedo,Luuq,Luuq godeey,Shallow Well,Luuq,3.75862,42.46874
+331,Gedo,Luuq,Luuq godeey 2,Shallow Well,Luuq,3.7452,42.4752
+332,Gedo,Luuq,Garboolow ,Shallow Well,Luuq,3.7587,42.4785
+333,Gedo,Luuq,Miiradhuubow ,Shallow Well,Luuq,3.7541,42.5472
+334,Gedo,Luuq,Shiidle,Shallow Well,Luuq,3.7541,42.854
+335,Gedo,Luuq,Qooneey,Shallow Well,Luuq,4.11025,42.11025
+336,Gedo,Luuq,Qooneey,Shallow Well,Luuq,4.11025,42.63489
+337,Gedo,Luuq,Cusbo,Shallow Well,Luuq,4.1021,42.1322
+338,Gedo,Luuq,Boholgaras ,Shallow Well,Luuq,4.205699,42.440039
+339,Gedo,Luuq,Boholgaras,Shallow Well,Luuq,3.7652,42.8547
+340,Gedo,Luuq,Cakaaro,Shallow Well,Luuq,3.4874,42.7782
+341,Gedo,Luuq,Dogob,Shallow Well,Luuq,3.47755,42.741
+342,Gedo,Luuq,Lastiig,Shallow Well,Luuq,3.415,42.338
+343,Gedo,Luuq,Balanbaala,Shallow Well,Luuq,3.414,42.328
+344,Gedo,Luuq,Tada,Shallow Well,Luuq,3.7471,42.7414
