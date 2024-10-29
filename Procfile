@@ -1,1 +1,1 @@
-web: R -e "shiny::runApp('/app')"
+web: docker run -p $PORT:$PORT your-docker-image
