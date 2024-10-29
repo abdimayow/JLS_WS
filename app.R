@@ -1,6 +1,7 @@
 library(shiny)
 library(shinydashboard)
 library(fontawesome)
+if (!requireNamespace("leaflet", quietly = TRUE)) install.packages("leaflet")
 library(leaflet)
 library(ggrepel)
 library(dplyr)
