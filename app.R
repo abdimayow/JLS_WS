@@ -1,31 +1,72 @@
 library(shiny)
-library(leaflet)
-library(dplyr)
 library(shinydashboard)
+library(fontawesome)
+library(leaflet)
+library(ggrepel)
+library(dplyr)
 library(palmerpenguins)
 library(tidyverse)
-library(stringr)  # For string manipulation functions
+library(stringr)
 
 # Load and clean the water sources data
 water_sources <- read.csv("JLS_WS.csv")
 
 # Clean column names to ensure compatibility
 names(water_sources) <- make.names(names(water_sources))
-
-
-# Standardize region names to title case to avoid duplicates (e.g., "Gedo" and "gedo")
 water_sources$REGION <- str_to_title(water_sources$REGION)
-
-# Update the region for the specified water source name
 water_sources$REGION[water_sources$SOURCE.NAME == "Hassan Abdi karin"] <- "Lower Juba"
-
-# Update the source type for the specified water source to water pan
 water_sources$SOURCE.TYPE[water_sources$SOURCE.NAME == "Hassan Abdi karin"] <- "Water Pan"
 
-# Define server logic for Jubaland Water Sources App
-shinyServer(function(input, output, session) {
- 
-   ###################################################################
+# Define UI for the application
+ui <- dashboardPage(
+  title = "Water Resource",
+  skin = 'green',
+  dashboardHeader(title = "MoEWR Jubaland"),
+  dashboardSidebar(
+    sidebarMenu(
+      sidebarSearchForm('searchText', 'buttonSearch', 'Search'),
+      menuItem("Dashboard", tabName = "dashboard", icon = icon('dashboard')),
+      menuSubItem("Borehole Dashboard", tabName = "boreholes", icon = icon("water")),
+      menuSubItem("Shallow Well Dashboard", tabName = "shallowwells", icon = icon("tint")),
+      menuSubItem("Barkad/Pan Dashboard", tabName = "barkadsPans", icon = icon("hand-holding-water")),
+      selectInput("region", "Select By Region", choices = NULL)  # choices set in server
+    )
+  ),
+  dashboardBody(
+    tabItems(
+      tabItem(tabName = "dashboard",
+              fluidRow(
+                valueBoxOutput("boreholeCount"),
+                valueBoxOutput("shallowWellCount"),
+                valueBoxOutput("barkadWaterPanCount")
+              ),
+              fluidRow(
+                tabBox(tabPanel("Bar Chart", plotOutput("sourceTypeBar")),
+                       tabPanel("Pie Chart", plotOutput("sourceTypePie"))
+                ),
+                tabBox(tabPanel("Map", leafletOutput("wsmap")))
+              )
+      ),
+      tabItem(tabName = "boreholes", fluidRow(tabBox(tabPanel("Bar chart", plotOutput("boreholes")),
+                                                     tabPanel("Pie chart", plotOutput("boreholesPie"))
+      ),
+      tabBox(tabPanel("Map", leafletOutput("boreholeloc"))))),
+      tabItem(tabName = "shallowwells", fluidRow(tabBox(tabPanel("Bar chart", plotOutput("shallowwells")),
+                                                        tabPanel("Pie chart", plotOutput("shallowWellsPie"))
+      ),
+      tabBox(tabPanel("Map", leafletOutput("shallowloc"))))),
+      tabItem(tabName = "barkadsPans", fluidRow(tabBox(tabPanel("Bar chart", plotOutput("barkadsPans")),
+                                                       tabPanel("Pie chart", plotOutput("barkadsWaterPansPie"))
+      ),
+      tabBox(tabPanel("Map", leafletOutput("barpanmap")))))
+    )
+  )
+)
+
+# Define server logic
+server <- function(input, output, session) {
+  
+  ###################################################################
   ###################################################################
   ###################################################################
   
@@ -229,7 +270,7 @@ shinyServer(function(input, output, session) {
     }
   })
   
- ##########
+  ##########
   # Pie chart of Boreholes by District, filtered by selected region
   output$boreholesPie <- renderPlot({
     # Filter data for boreholes and selected region
@@ -330,7 +371,7 @@ shinyServer(function(input, output, session) {
         legend.text = element_text(face = "bold")  # Make legend text bold
       )
   })
-
+  
   
   #############
   # Render the leaflet map
@@ -547,4 +588,7 @@ shinyServer(function(input, output, session) {
         )
     }
   })
-})
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server)
